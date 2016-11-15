@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title type="text">開發環境</title>
+<updated>2015-02-01T04:11:09Z</updated>
+<link rel="self" href="https://g0v.hackpad.com/ep/group/feed?groupId=Aslm754UzjI" />
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/ep/group/Aslm754UzjI" />
+<id>https://g0v.hackpad.com/ep/group/feed?groupId=Aslm754UzjI</id>
+<entry>
+<title>Instant Setup hack.g0v.tw for Windows Users</title>
+<author><name>NewClicker, NewCliCker, Yu-Lung Shao, 廖三凱, omusico ko, Chia-liang Kao, Audrey Tang, ET Blue, HisnYi Chen, Brecht Huang, SugarQueenie, 吳易達 Joybo Wu</name></author>
+<published>2013-05-31T14:06:39Z</published>
+<updated>2015-02-01T04:11:09Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/L0mEqjsanOA" />
+<id>https://g0v.hackpad.com/L0mEqjsanOA</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
+<entry>
+<title>在 Fire.app 中使用 Jade 樣板語法（以 Windows 版為例）</title>
+<author><name>ET Blue</name></author>
+<published>2013-08-05T18:05:21Z</published>
+<updated>2014-09-06T07:12:10Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/FK7eBR4BdAj" />
+<id>https://g0v.hackpad.com/FK7eBR4BdAj</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
+<entry>
+<title>讓 Fire.app 支援 Jade 的方法 - 20140118之前舊版</title>
+<author><name>ET Blue</name></author>
+<published>2014-01-17T20:35:41Z</published>
+<updated>2014-01-18T09:54:53Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/TvnVBdyagMJ" />
+<id>https://g0v.hackpad.com/TvnVBdyagMJ</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
+</feed>

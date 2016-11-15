@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title type="text">IoT</title>
+<updated>2016-08-03T13:36:48Z</updated>
+<link rel="self" href="https://g0v.hackpad.com/ep/group/feed?groupId=tJfrYVO6Suu" />
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/ep/group/tJfrYVO6Suu" />
+<id>https://g0v.hackpad.com/ep/group/feed?groupId=tJfrYVO6Suu</id>
+<entry>
+<title>g0v 零時空汙觀測專案</title>
+<author><name>Ling-Jyh Chen, Chun-hsi Tso, YingWei Hu, Lee Hanru, yellowsoar</name></author>
+<published>2016-02-21T05:42:10Z</published>
+<updated>2016-08-03T13:36:48Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/TexkKFNmqZP" />
+<id>https://g0v.hackpad.com/TexkKFNmqZP</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
+<entry>
+<title>IoT 空污偵測 DIY</title>
+<author><name>劉宇庭, Pichu Chen, che wei liu, AceChen, formotse, Ken Lin, 海明威, Tzu-Hsi Yang, cs8425, Chun-hsi Tso, huitse HUANG, Fufu Fang, tcchu, Pomin Wu, Tom Shih, Jimmy Huang, 偉尼基（joewang）, Kang-min Liu, miaoski, kiang</name></author>
+<published>2015-04-19T16:24:56Z</published>
+<updated>2016-01-25T06:06:05Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/B1xkj9fUqqH" />
+<id>https://g0v.hackpad.com/B1xkj9fUqqH</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
+<entry>
+<title>從資料出發建構解決方案</title>
+<author><name>YenWei Zheng</name></author>
+<published>2015-09-03T13:01:40Z</published>
+<updated>2015-09-04T01:54:42Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/2f0NyPCekZ7" />
+<id>https://g0v.hackpad.com/2f0NyPCekZ7</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
+</feed>

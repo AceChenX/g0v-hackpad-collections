@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title type="text">cyberwar</title>
+<updated>2015-04-02T02:53:50Z</updated>
+<link rel="self" href="https://g0v.hackpad.com/ep/group/feed?groupId=qHMFHkEez22" />
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/ep/group/qHMFHkEez22" />
+<id>https://g0v.hackpad.com/ep/group/feed?groupId=qHMFHkEez22</id>
+<entry>
+<title>&#34;網軍分身&#34; vs &#34;正常使用者&#34; Classification</title>
+<author><name>Che-An Wu</name></author>
+<published>2015-04-01T20:58:00Z</published>
+<updated>2015-04-02T02:53:50Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/XLlrXHlRTet" />
+<id>https://g0v.hackpad.com/XLlrXHlRTet</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
+<entry>
+<title>立法院議場網路 SSL MITM 訊息澄清</title>
+<author><name>Chai Yu Pai, yingui chen, Audrey Tang, Rex Tsai</name></author>
+<published>2014-03-26T06:03:09Z</published>
+<updated>2014-04-27T14:40:41Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/aZNHYZ3GsHW" />
+<id>https://g0v.hackpad.com/aZNHYZ3GsHW</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
+</feed>

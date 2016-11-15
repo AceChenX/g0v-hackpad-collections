@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title type="text">CEC</title>
+<updated>2016-01-02T08:07:43Z</updated>
+<link rel="self" href="https://g0v.hackpad.com/ep/group/feed?groupId=AnqMUngoBUt" />
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/ep/group/AnqMUngoBUt" />
+<id>https://g0v.hackpad.com/ep/group/feed?groupId=AnqMUngoBUt</id>
+<entry>
+<title>中選會選舉資料流程暨網站選舉專區意見蒐集</title>
+<author><name>Liang Kao, Charles Chuang, Johnson Liang, johnny</name></author>
+<published>2015-08-06T06:03:21Z</published>
+<updated>2016-01-02T08:07:43Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/N5RsLraNd15" />
+<id>https://g0v.hackpad.com/N5RsLraNd15</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
+<entry>
+<title>3/27 中央選舉委員會選舉資料開放及社群協作座談會</title>
+<author><name>葉志成, Charles Chuang, kiang</name></author>
+<published>2015-03-26T19:24:04Z</published>
+<updated>2015-04-09T04:04:59Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/wW1K62Txnsb" />
+<id>https://g0v.hackpad.com/wW1K62Txnsb</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
+</feed>
