@@ -11,9 +11,7 @@ baseurl = 'https://g0v.hackpad.com/ep/group/feed?groupId='
 for groupid in collections:
     url = baseurl + groupid
     xml_content = requests.get(url).content
-    if os.path.isfile(groupid+'.xml'):
-        continue
-    else:
-        with open(groupid+'.xml','w') as f:
-            f.write(xml_content.decode('utf-8'))
-            print(groupid)
+
+    with open(groupid+'.xml','w') as f:
+        f.write(xml_content.decode('utf-8'))
+        print(groupid)
