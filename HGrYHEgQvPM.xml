@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title type="text">vtaiwan</title>
-<updated>2016-10-23T07:56:11Z</updated>
+<updated>2016-11-25T13:33:59Z</updated>
 <link rel="self" href="https://g0v.hackpad.com/ep/group/feed?groupId=HGrYHEgQvPM" />
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/ep/group/HGrYHEgQvPM" />
 <id>https://g0v.hackpad.com/ep/group/feed?groupId=HGrYHEgQvPM</id>
+<entry>
+<title>vTaiwan.tw 參考文獻</title>
+<author><name>che wei liu, Audrey Tang</name></author>
+<published>2014-12-24T18:28:53Z</published>
+<updated>2016-11-25T13:33:59Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/aAkUCc44qRt" />
+<id>https://g0v.hackpad.com/aAkUCc44qRt</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
 <entry>
 <title>vTaiwan 2016-10-22 小松</title>
 <author><name>chihao yo, 劉宇庭, JmeHsieh, Mg Lee, Yuan Hsiang Cheng, Chia Hua Lu, Ronny Wang, 芥蘭, Michael_Li, Poga Po, Audrey Tang</name></author>
@@ -23,17 +34,6 @@
 <updated>2016-10-15T09:31:37Z</updated>
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/WFi6lJi4PgW" />
 <id>https://g0v.hackpad.com/WFi6lJi4PgW</id>
-<content type="xhtml">
-<div xmlns="http://www.w3.org/1999/xhtml"></div>
-</content>
-</entry>
-<entry>
-<title>vTaiwan.tw 參考文獻</title>
-<author><name>che wei liu, Audrey Tang</name></author>
-<published>2014-12-24T18:28:53Z</published>
-<updated>2016-10-04T16:14:04Z</updated>
-<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/aAkUCc44qRt" />
-<id>https://g0v.hackpad.com/aAkUCc44qRt</id>
 <content type="xhtml">
 <div xmlns="http://www.w3.org/1999/xhtml"></div>
 </content>
