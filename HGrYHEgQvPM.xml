@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title type="text">vtaiwan</title>
-<updated>2016-12-20T06:01:27Z</updated>
+<updated>2016-12-22T01:09:35Z</updated>
 <link rel="self" href="https://g0v.hackpad.com/ep/group/feed?groupId=HGrYHEgQvPM" />
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/ep/group/HGrYHEgQvPM" />
 <id>https://g0v.hackpad.com/ep/group/feed?groupId=HGrYHEgQvPM</id>
+<entry>
+<title>vTaiwan: 工作組聚會共筆</title>
+<author><name>Bropheus Huang, Chou Shoichi, Kiwi, Jung, 翁婉瑩, Claire, Stella Hsieh, Will Chang, Audrey Tang, 翁馬克, Pofeng Lee, nchild, 雨蒼 林, 林仔魚, Li-Ting Shirley Huang, Chia Hua Lu, venev, Bestian Tang, Audrey Tang, trc</name></author>
+<published>2015-03-13T06:16:53Z</published>
+<updated>2016-12-22T01:09:35Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/zjiELIjtDUc" />
+<id>https://g0v.hackpad.com/zjiELIjtDUc</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
+<entry>
+<title>vTaiwan交接松</title>
+<author><name>Poren Chiang, Chiao Joseph, Mg Lee, Chia-liang Kao, 林仔魚, ilya Lee, 焦佳弘, 芥蘭, tzu wei huang, Shu Yang Lin, Howard Chang, 王可言, Audrey Tang</name></author>
+<published>2016-10-02T02:36:17Z</published>
+<updated>2016-12-21T10:07:13Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/bH0Q7qKl0Ba" />
+<id>https://g0v.hackpad.com/bH0Q7qKl0Ba</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
+<entry>
+<title>2016-10-08 vTaiwan 小松紀錄</title>
+<author><name>林仔魚, Bestian Tang, Shu Yang Lin, Audrey Tang</name></author>
+<published>2016-10-08T08:13:59Z</published>
+<updated>2016-12-21T10:02:46Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/WFi6lJi4PgW" />
+<id>https://g0v.hackpad.com/WFi6lJi4PgW</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
 <entry>
 <title>vTaiwan.tw 參考文獻</title>
 <author><name>che wei liu, Audrey Tang, 林仔魚</name></author>
@@ -34,28 +67,6 @@
 <updated>2016-10-23T07:56:11Z</updated>
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/XS7DoCGwObg" />
 <id>https://g0v.hackpad.com/XS7DoCGwObg</id>
-<content type="xhtml">
-<div xmlns="http://www.w3.org/1999/xhtml"></div>
-</content>
-</entry>
-<entry>
-<title>2016-10-08 vTaiwan 小松紀錄</title>
-<author><name>Bestian Tang, Shu Yang Lin, Audrey Tang</name></author>
-<published>2016-10-08T08:13:59Z</published>
-<updated>2016-10-15T09:31:37Z</updated>
-<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/WFi6lJi4PgW" />
-<id>https://g0v.hackpad.com/WFi6lJi4PgW</id>
-<content type="xhtml">
-<div xmlns="http://www.w3.org/1999/xhtml"></div>
-</content>
-</entry>
-<entry>
-<title>vTaiwan交接松</title>
-<author><name>Poren Chiang, Chiao Joseph, Mg Lee, Chia-liang Kao, ilya Lee, 焦佳弘, 芥蘭, tzu wei huang, Shu Yang Lin, Howard Chang, 王可言, Audrey Tang</name></author>
-<published>2016-10-02T02:36:17Z</published>
-<updated>2016-10-03T03:52:32Z</updated>
-<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/bH0Q7qKl0Ba" />
-<id>https://g0v.hackpad.com/bH0Q7qKl0Ba</id>
 <content type="xhtml">
 <div xmlns="http://www.w3.org/1999/xhtml"></div>
 </content>
@@ -210,17 +221,6 @@
 <updated>2015-08-19T21:18:01Z</updated>
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/RLDmz3h7oJg" />
 <id>https://g0v.hackpad.com/RLDmz3h7oJg</id>
-<content type="xhtml">
-<div xmlns="http://www.w3.org/1999/xhtml"></div>
-</content>
-</entry>
-<entry>
-<title>vTaiwan: 工作組聚會共筆</title>
-<author><name>Bropheus Huang, Chou Shoichi, Kiwi, Jung, 翁婉瑩, Claire, Stella Hsieh, Will Chang, Audrey Tang, 翁馬克, Pofeng Lee, nchild, 雨蒼 林, Li-Ting Shirley Huang, Chia Hua Lu, venev, Bestian Tang, Audrey Tang, trc</name></author>
-<published>2015-03-13T06:16:53Z</published>
-<updated>2015-08-19T21:11:30Z</updated>
-<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/zjiELIjtDUc" />
-<id>https://g0v.hackpad.com/zjiELIjtDUc</id>
 <content type="xhtml">
 <div xmlns="http://www.w3.org/1999/xhtml"></div>
 </content>
