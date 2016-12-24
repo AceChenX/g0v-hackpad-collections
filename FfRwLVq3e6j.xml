@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title type="text">g0v 文化部</title>
-<updated>2016-09-30T03:49:52Z</updated>
+<updated>2016-12-23T08:30:59Z</updated>
 <link rel="self" href="https://g0v.hackpad.com/ep/group/feed?groupId=FfRwLVq3e6j" />
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/ep/group/FfRwLVq3e6j" />
 <id>https://g0v.hackpad.com/ep/group/feed?groupId=FfRwLVq3e6j</id>
+<entry>
+<title>⭐ g0v 提案協作流程</title>
+<author><name>Yang-Hsiang Chang, Paul Huang, Jason Kuan, Chen Shin Liang, Wan-Ting Liao, Chia-liang Kao, ET Blue, ipa chiu, Hsin-chan Chien, lanfon, Shelling Ford, kahou</name></author>
+<published>2014-04-23T15:29:56Z</published>
+<updated>2016-12-23T08:30:59Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/JWIizPuN3mz" />
+<id>https://g0v.hackpad.com/JWIizPuN3mz</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
 <entry>
 <title>2013 專案年度紀錄/截圖+說明</title>
 <author><name>ET Blue, HisnYi Chen, ipa chiu, Kirby Wu, Kuang-Che Liu, 陳柏儒, Walkingice Chu, venev, 廖宸語, 奕孝 陳, Bresson Lee</name></author>
@@ -12,17 +23,6 @@
 <updated>2016-09-30T03:49:52Z</updated>
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/4zbCipMarcu" />
 <id>https://g0v.hackpad.com/4zbCipMarcu</id>
-<content type="xhtml">
-<div xmlns="http://www.w3.org/1999/xhtml"></div>
-</content>
-</entry>
-<entry>
-<title>⭐ g0v 提案協作流程</title>
-<author><name>Yang-Hsiang Chang, Paul Huang, Jason Kuan, Chen Shin Liang, Wan-Ting Liao, Chia-liang Kao, ET Blue, ipa chiu, Hsin-chan Chien, lanfon, Shelling Ford</name></author>
-<published>2014-04-23T15:29:56Z</published>
-<updated>2016-07-24T10:20:23Z</updated>
-<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/JWIizPuN3mz" />
-<id>https://g0v.hackpad.com/JWIizPuN3mz</id>
 <content type="xhtml">
 <div xmlns="http://www.w3.org/1999/xhtml"></div>
 </content>
