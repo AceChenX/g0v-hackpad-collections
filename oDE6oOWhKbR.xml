@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title type="text">Issue-Mapping</title>
-<updated>2016-12-26T01:18:19Z</updated>
+<updated>2016-12-29T17:17:35Z</updated>
 <link rel="self" href="https://g0v.hackpad.com/ep/group/feed?groupId=oDE6oOWhKbR" />
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/ep/group/oDE6oOWhKbR" />
 <id>https://g0v.hackpad.com/ep/group/feed?groupId=oDE6oOWhKbR</id>
+<entry>
+<title>Issue-Mapping 蒐集案例</title>
+<author><name>Chang Shu-Huai, che wei liu, Xavier Sun</name></author>
+<published>2014-11-27T17:40:48Z</published>
+<updated>2016-12-29T17:17:35Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/4nashhbYi72" />
+<id>https://g0v.hackpad.com/4nashhbYi72</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
 <entry>
 <title>哺乳地圖</title>
 <author><name>昕迪 李, Dir Chen, Lucy Chen, 曾小四, Liang Kao, Yaling Peng, Supaplex, wHisKy , ipa chiu, YuHsin Lee, Pomin Wu, Jimmy Huang, 羅佩琪, yellowsoar</name></author>
@@ -12,17 +23,6 @@
 <updated>2016-12-26T01:18:19Z</updated>
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/O0rbl8VdqpC" />
 <id>https://g0v.hackpad.com/O0rbl8VdqpC</id>
-<content type="xhtml">
-<div xmlns="http://www.w3.org/1999/xhtml"></div>
-</content>
-</entry>
-<entry>
-<title>Issue-Mapping 蒐集案例</title>
-<author><name>Chang Shu-Huai, che wei liu, Xavier Sun</name></author>
-<published>2014-11-27T17:40:48Z</published>
-<updated>2016-12-24T10:39:18Z</updated>
-<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/4nashhbYi72" />
-<id>https://g0v.hackpad.com/4nashhbYi72</id>
 <content type="xhtml">
 <div xmlns="http://www.w3.org/1999/xhtml"></div>
 </content>
