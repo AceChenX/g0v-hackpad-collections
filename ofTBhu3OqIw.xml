@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title type="text">planning</title>
-<updated>2017-01-06T18:58:24Z</updated>
+<updated>2017-01-07T23:23:33Z</updated>
 <link rel="self" href="https://g0v.hackpad.com/ep/group/feed?groupId=ofTBhu3OqIw" />
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/ep/group/ofTBhu3OqIw" />
 <id>https://g0v.hackpad.com/ep/group/feed?groupId=ofTBhu3OqIw</id>
+<entry>
+<title>城市與數學</title>
+<author><name>che wei liu</name></author>
+<published>2015-08-05T13:24:57Z</published>
+<updated>2017-01-07T23:23:33Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/nMQKLwW23pn" />
+<id>https://g0v.hackpad.com/nMQKLwW23pn</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
 <entry>
 <title>Crowd Planning System / Prototype</title>
 <author><name>Richard Hsieh, che wei liu, 林逸晟, YENJU LEE, 邱立安</name></author>
@@ -67,17 +78,6 @@
 <updated>2016-12-23T00:10:06Z</updated>
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/P6wx2eL2HQC" />
 <id>https://g0v.hackpad.com/P6wx2eL2HQC</id>
-<content type="xhtml">
-<div xmlns="http://www.w3.org/1999/xhtml"></div>
-</content>
-</entry>
-<entry>
-<title>城市與數學</title>
-<author><name>che wei liu</name></author>
-<published>2015-08-05T13:24:57Z</published>
-<updated>2016-10-30T19:11:19Z</updated>
-<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/nMQKLwW23pn" />
-<id>https://g0v.hackpad.com/nMQKLwW23pn</id>
 <content type="xhtml">
 <div xmlns="http://www.w3.org/1999/xhtml"></div>
 </content>
