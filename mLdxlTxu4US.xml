@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title type="text">公有地大行動</title>
-<updated>2017-01-11T17:28:29Z</updated>
+<updated>2017-01-15T15:08:19Z</updated>
 <link rel="self" href="https://g0v.hackpad.com/ep/group/feed?groupId=mLdxlTxu4US" />
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/ep/group/mLdxlTxu4US" />
 <id>https://g0v.hackpad.com/ep/group/feed?groupId=mLdxlTxu4US</id>
+<entry>
+<title>臺北市政府空間資源平臺構想</title>
+<author><name>che wei liu</name></author>
+<published>2016-12-30T08:30:05Z</published>
+<updated>2017-01-15T15:08:19Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/AHSDmIcE01y" />
+<id>https://g0v.hackpad.com/AHSDmIcE01y</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
 <entry>
 <title>地號轉地圖 Land No. Mapper</title>
 <author><name>che wei liu, 林立哲, 雨蒼 林, kiang</name></author>
@@ -12,17 +23,6 @@
 <updated>2017-01-11T17:28:29Z</updated>
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/uhB6qAwYXe5" />
 <id>https://g0v.hackpad.com/uhB6qAwYXe5</id>
-<content type="xhtml">
-<div xmlns="http://www.w3.org/1999/xhtml"></div>
-</content>
-</entry>
-<entry>
-<title>臺北市政府空間資源平臺構想</title>
-<author><name>che wei liu</name></author>
-<published>2016-12-30T08:30:05Z</published>
-<updated>2017-01-11T00:13:20Z</updated>
-<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/AHSDmIcE01y" />
-<id>https://g0v.hackpad.com/AHSDmIcE01y</id>
 <content type="xhtml">
 <div xmlns="http://www.w3.org/1999/xhtml"></div>
 </content>
