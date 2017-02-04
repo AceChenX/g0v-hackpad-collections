@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title type="text">聽打共筆</title>
-<updated>2016-12-29T23:54:58Z</updated>
+<updated>2017-02-04T03:56:55Z</updated>
 <link rel="self" href="https://g0v.hackpad.com/ep/group/feed?groupId=F0zNnuvWbG2" />
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/ep/group/F0zNnuvWbG2" />
 <id>https://g0v.hackpad.com/ep/group/feed?groupId=F0zNnuvWbG2</id>
+<entry>
+<title>逐字稿打字坊</title>
+<author><name>Nicemaker, venev, Fumi Miyabe, Michael_Li, Wen-Chi Cheng</name></author>
+<published>2014-05-09T03:51:47Z</published>
+<updated>2017-02-04T03:56:55Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/ntF2esfIsSj" />
+<id>https://g0v.hackpad.com/ntF2esfIsSj</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
 <entry>
 <title>張大春泡新聞訪 g0v 逐字稿協作 20140915</title>
 <author><name>李國維, Audrey Tang, 李芷家, venev</name></author>
@@ -12,17 +23,6 @@
 <updated>2016-12-29T23:54:58Z</updated>
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/qF6tX8scoGz" />
 <id>https://g0v.hackpad.com/qF6tX8scoGz</id>
-<content type="xhtml">
-<div xmlns="http://www.w3.org/1999/xhtml"></div>
-</content>
-</entry>
-<entry>
-<title>逐字稿打字坊</title>
-<author><name>Nicemaker, venev, Fumi Miyabe, Michael_Li, Wen-Chi Cheng</name></author>
-<published>2014-05-09T03:51:47Z</published>
-<updated>2016-12-27T02:19:34Z</updated>
-<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/ntF2esfIsSj" />
-<id>https://g0v.hackpad.com/ntF2esfIsSj</id>
 <content type="xhtml">
 <div xmlns="http://www.w3.org/1999/xhtml"></div>
 </content>

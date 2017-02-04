@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title type="text">g0v idea pool</title>
-<updated>2017-02-02T15:57:03Z</updated>
+<updated>2017-02-04T04:19:29Z</updated>
 <link rel="self" href="https://g0v.hackpad.com/ep/group/feed?groupId=yvUEJD5fNjX" />
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/ep/group/yvUEJD5fNjX" />
 <id>https://g0v.hackpad.com/ep/group/feed?groupId=yvUEJD5fNjX</id>
 <entry>
-<title>《金權城市》</title>
-<author><name>che wei liu, A. Silva</name></author>
-<published>2014-11-17T22:19:04Z</published>
-<updated>2017-02-02T15:57:03Z</updated>
-<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/BTinaujbYNG" />
-<id>https://g0v.hackpad.com/BTinaujbYNG</id>
+<title>行事曆</title>
+<author><name>che wei liu, 賴威豪</name></author>
+<published>2016-05-26T12:20:44Z</published>
+<updated>2017-02-04T04:19:29Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/cjdeZ8orXk4" />
+<id>https://g0v.hackpad.com/cjdeZ8orXk4</id>
 <content type="xhtml">
 <div xmlns="http://www.w3.org/1999/xhtml"></div>
 </content>
@@ -20,7 +20,7 @@
 <title>責任消費相關機制蒐集</title>
 <author><name>che wei liu</name></author>
 <published>2016-02-19T20:31:44Z</published>
-<updated>2017-01-30T15:56:02Z</updated>
+<updated>2017-02-03T21:10:53Z</updated>
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/WfMCiZM7Jtk" />
 <id>https://g0v.hackpad.com/WfMCiZM7Jtk</id>
 <content type="xhtml">
@@ -28,12 +28,12 @@
 </content>
 </entry>
 <entry>
-<title>行事曆</title>
-<author><name>che wei liu, 賴威豪</name></author>
-<published>2016-05-26T12:20:44Z</published>
-<updated>2017-01-06T17:03:48Z</updated>
-<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/cjdeZ8orXk4" />
-<id>https://g0v.hackpad.com/cjdeZ8orXk4</id>
+<title>《金權城市》</title>
+<author><name>che wei liu, A. Silva</name></author>
+<published>2014-11-17T22:19:04Z</published>
+<updated>2017-02-02T15:57:03Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/BTinaujbYNG" />
+<id>https://g0v.hackpad.com/BTinaujbYNG</id>
 <content type="xhtml">
 <div xmlns="http://www.w3.org/1999/xhtml"></div>
 </content>
