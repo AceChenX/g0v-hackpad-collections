@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title type="text">UDN</title>
+<updated>2017-02-06T10:03:06Z</updated>
+<link rel="self" href="https://g0v.hackpad.com/ep/group/feed?groupId=BRVeZM6gB4G" />
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/ep/group/BRVeZM6gB4G" />
+<id>https://g0v.hackpad.com/ep/group/feed?groupId=BRVeZM6gB4G</id>
+<entry>
+<title>JSON, XML 匯出入範例</title>
+<author><name>Joye  Lin, Leo Cheng, Ronny Wang, 張欽隆</name></author>
+<published>2017-01-05T03:28:41Z</published>
+<updated>2017-02-06T10:03:06Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/lqlPtqrJSZG" />
+<id>https://g0v.hackpad.com/lqlPtqrJSZG</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
+</feed>
