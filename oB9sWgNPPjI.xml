@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title type="text">醫療</title>
-<updated>2016-08-25T16:01:26Z</updated>
+<updated>2017-02-25T09:50:23Z</updated>
 <link rel="self" href="https://g0v.hackpad.com/ep/group/feed?groupId=oB9sWgNPPjI" />
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/ep/group/oB9sWgNPPjI" />
 <id>https://g0v.hackpad.com/ep/group/feed?groupId=oB9sWgNPPjI</id>
+<entry>
+<title>長照2.0各級據點查詢系統</title>
+<author><name>Chen Kai Chang</name></author>
+<published>2017-02-25T08:52:13Z</published>
+<updated>2017-02-25T09:50:23Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/eRA26AhFhio" />
+<id>https://g0v.hackpad.com/eRA26AhFhio</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
 <entry>
 <title>醫療議題軍火籌備處</title>
 <author><name>昕迪 李, NewCliCker, phages Bacterio, 林秉鴻, PH LIN, Urochordate Fang, Tuiry Hsiao, jbytw, Ally.H, Johnson Huang, stardog</name></author>
