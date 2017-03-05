@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title type="text">地圖化</title>
-<updated>2017-02-26T12:42:59Z</updated>
+<updated>2017-03-04T09:34:42Z</updated>
 <link rel="self" href="https://g0v.hackpad.com/ep/group/feed?groupId=EwgN4pVB2k5" />
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/ep/group/EwgN4pVB2k5" />
 <id>https://g0v.hackpad.com/ep/group/feed?groupId=EwgN4pVB2k5</id>
+<entry>
+<title>鄉民風水師 0.1.0 for Android</title>
+<author><name>Raymond Wu, Supaplex</name></author>
+<published>2016-01-08T10:49:51Z</published>
+<updated>2017-03-04T09:34:42Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/0zZtHOsh7DJ" />
+<id>https://g0v.hackpad.com/0zZtHOsh7DJ</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
 <entry>
 <title>地圖告解室 Mapfessional</title>
 <author><name>che wei liu</name></author>
@@ -12,17 +23,6 @@
 <updated>2017-02-26T12:42:59Z</updated>
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/EJfaf9C5gaT" />
 <id>https://g0v.hackpad.com/EJfaf9C5gaT</id>
-<content type="xhtml">
-<div xmlns="http://www.w3.org/1999/xhtml"></div>
-</content>
-</entry>
-<entry>
-<title>鄉民風水師 0.1.0 for Android</title>
-<author><name>Raymond Wu, Supaplex</name></author>
-<published>2016-01-08T10:49:51Z</published>
-<updated>2016-10-03T07:50:59Z</updated>
-<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/0zZtHOsh7DJ" />
-<id>https://g0v.hackpad.com/0zZtHOsh7DJ</id>
 <content type="xhtml">
 <div xmlns="http://www.w3.org/1999/xhtml"></div>
 </content>
