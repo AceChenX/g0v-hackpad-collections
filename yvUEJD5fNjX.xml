@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title type="text">g0v idea pool</title>
-<updated>2017-03-02T05:27:58Z</updated>
+<updated>2017-03-07T15:21:45Z</updated>
 <link rel="self" href="https://g0v.hackpad.com/ep/group/feed?groupId=yvUEJD5fNjX" />
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/ep/group/yvUEJD5fNjX" />
 <id>https://g0v.hackpad.com/ep/group/feed?groupId=yvUEJD5fNjX</id>
+<entry>
+<title>各種協作方案蒐集 ↓ 歡迎共筆</title>
+<author><name>che wei liu, Relax, Diksha</name></author>
+<published>2017-02-22T14:00:22Z</published>
+<updated>2017-03-07T15:21:45Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/D9MJr53TC4B" />
+<id>https://g0v.hackpad.com/D9MJr53TC4B</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
 <entry>
 <title>EverStudy 開放研究</title>
 <author><name>che wei liu</name></author>
@@ -23,17 +34,6 @@
 <updated>2017-03-01T21:36:48Z</updated>
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/cjdeZ8orXk4" />
 <id>https://g0v.hackpad.com/cjdeZ8orXk4</id>
-<content type="xhtml">
-<div xmlns="http://www.w3.org/1999/xhtml"></div>
-</content>
-</entry>
-<entry>
-<title>各種協作方案蒐集 ↓ 歡迎共筆</title>
-<author><name>che wei liu, Relax, Diksha</name></author>
-<published>2017-02-22T14:00:22Z</published>
-<updated>2017-02-27T13:26:40Z</updated>
-<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/D9MJr53TC4B" />
-<id>https://g0v.hackpad.com/D9MJr53TC4B</id>
 <content type="xhtml">
 <div xmlns="http://www.w3.org/1999/xhtml"></div>
 </content>
