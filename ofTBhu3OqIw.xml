@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title type="text">planning</title>
-<updated>2017-03-09T10:31:49Z</updated>
+<updated>2017-03-14T05:47:50Z</updated>
 <link rel="self" href="https://g0v.hackpad.com/ep/group/feed?groupId=ofTBhu3OqIw" />
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/ep/group/ofTBhu3OqIw" />
 <id>https://g0v.hackpad.com/ep/group/feed?groupId=ofTBhu3OqIw</id>
+<entry>
+<title>都市計畫書資料三星化｜方法討論</title>
+<author><name>che wei liu</name></author>
+<published>2015-08-25T20:38:02Z</published>
+<updated>2017-03-14T05:47:50Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/2qR2Pzdu95W" />
+<id>https://g0v.hackpad.com/2qR2Pzdu95W</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
+<entry>
+<title>城市建築地圖案例蒐集</title>
+<author><name>Richard Hsieh, che wei liu, Austin Tsai</name></author>
+<published>2016-02-18T09:00:51Z</published>
+<updated>2017-03-14T04:23:06Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/sh7utuV1NfX" />
+<id>https://g0v.hackpad.com/sh7utuV1NfX</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
 <entry>
 <title>開放都市-委員會會議記錄資料庫 資料結構</title>
 <author><name>Richard Hsieh, che wei liu, YenCheng Chen</name></author>
@@ -12,17 +34,6 @@
 <updated>2017-03-09T10:31:49Z</updated>
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/CDUPc1zHil2" />
 <id>https://g0v.hackpad.com/CDUPc1zHil2</id>
-<content type="xhtml">
-<div xmlns="http://www.w3.org/1999/xhtml"></div>
-</content>
-</entry>
-<entry>
-<title>都市計畫書資料三星化｜方法討論</title>
-<author><name>che wei liu</name></author>
-<published>2015-08-25T20:38:02Z</published>
-<updated>2017-03-09T08:39:56Z</updated>
-<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/2qR2Pzdu95W" />
-<id>https://g0v.hackpad.com/2qR2Pzdu95W</id>
 <content type="xhtml">
 <div xmlns="http://www.w3.org/1999/xhtml"></div>
 </content>
@@ -67,17 +78,6 @@
 <updated>2017-03-03T07:20:44Z</updated>
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/nMQKLwW23pn" />
 <id>https://g0v.hackpad.com/nMQKLwW23pn</id>
-<content type="xhtml">
-<div xmlns="http://www.w3.org/1999/xhtml"></div>
-</content>
-</entry>
-<entry>
-<title>城市建築地圖案例蒐集</title>
-<author><name>Richard Hsieh, che wei liu, Austin Tsai</name></author>
-<published>2016-02-18T09:00:51Z</published>
-<updated>2017-02-25T05:24:08Z</updated>
-<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/sh7utuV1NfX" />
-<id>https://g0v.hackpad.com/sh7utuV1NfX</id>
 <content type="xhtml">
 <div xmlns="http://www.w3.org/1999/xhtml"></div>
 </content>
