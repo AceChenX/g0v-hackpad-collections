@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title type="text">planning</title>
-<updated>2017-03-17T19:28:48Z</updated>
+<updated>2017-03-19T23:43:34Z</updated>
 <link rel="self" href="https://g0v.hackpad.com/ep/group/feed?groupId=ofTBhu3OqIw" />
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/ep/group/ofTBhu3OqIw" />
 <id>https://g0v.hackpad.com/ep/group/feed?groupId=ofTBhu3OqIw</id>
+<entry>
+<title>城市建築地圖案例蒐集</title>
+<author><name>Richard Hsieh, che wei liu, Austin Tsai</name></author>
+<published>2016-02-18T09:00:51Z</published>
+<updated>2017-03-19T23:43:34Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/sh7utuV1NfX" />
+<id>https://g0v.hackpad.com/sh7utuV1NfX</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
+<entry>
+<title>開放都市-委員會會議記錄資料庫 前端策劃</title>
+<author><name>Richard Hsieh</name></author>
+<published>2017-02-09T12:57:28Z</published>
+<updated>2017-03-19T14:57:03Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/OukMJzcIYdy" />
+<id>https://g0v.hackpad.com/OukMJzcIYdy</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
+<entry>
+<title>開放都市-委員會會議記錄資料庫</title>
+<author><name>Richard Hsieh, che wei liu, Johnson Liang</name></author>
+<published>2015-06-05T05:47:22Z</published>
+<updated>2017-03-19T14:50:33Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/BpW2Xt7s8AH" />
+<id>https://g0v.hackpad.com/BpW2Xt7s8AH</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
+<entry>
+<title>開放都市-委員會會議記錄資料庫 資料結構</title>
+<author><name>Richard Hsieh, che wei liu, YenCheng Chen</name></author>
+<published>2017-02-09T12:39:11Z</published>
+<updated>2017-03-19T09:50:29Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/CDUPc1zHil2" />
+<id>https://g0v.hackpad.com/CDUPc1zHil2</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
 <entry>
 <title>城市與數學</title>
 <author><name>che wei liu</name></author>
@@ -28,34 +72,12 @@
 </content>
 </entry>
 <entry>
-<title>城市建築地圖案例蒐集</title>
-<author><name>Richard Hsieh, che wei liu, Austin Tsai</name></author>
-<published>2016-02-18T09:00:51Z</published>
-<updated>2017-03-17T17:12:00Z</updated>
-<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/sh7utuV1NfX" />
-<id>https://g0v.hackpad.com/sh7utuV1NfX</id>
-<content type="xhtml">
-<div xmlns="http://www.w3.org/1999/xhtml"></div>
-</content>
-</entry>
-<entry>
 <title>地下都市計畫</title>
 <author><name>che wei liu</name></author>
 <published>2015-05-16T13:40:37Z</published>
 <updated>2017-03-17T10:20:33Z</updated>
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/gGhuhrPqRjw" />
 <id>https://g0v.hackpad.com/gGhuhrPqRjw</id>
-<content type="xhtml">
-<div xmlns="http://www.w3.org/1999/xhtml"></div>
-</content>
-</entry>
-<entry>
-<title>開放都市-委員會會議記錄資料庫 資料結構</title>
-<author><name>Richard Hsieh, che wei liu, YenCheng Chen</name></author>
-<published>2017-02-09T12:39:11Z</published>
-<updated>2017-03-17T06:32:27Z</updated>
-<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/CDUPc1zHil2" />
-<id>https://g0v.hackpad.com/CDUPc1zHil2</id>
 <content type="xhtml">
 <div xmlns="http://www.w3.org/1999/xhtml"></div>
 </content>
@@ -78,17 +100,6 @@
 <updated>2017-03-15T17:11:26Z</updated>
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/lx28QH0z38S" />
 <id>https://g0v.hackpad.com/lx28QH0z38S</id>
-<content type="xhtml">
-<div xmlns="http://www.w3.org/1999/xhtml"></div>
-</content>
-</entry>
-<entry>
-<title>開放都市-委員會會議記錄資料庫</title>
-<author><name>Richard Hsieh, che wei liu, Johnson Liang</name></author>
-<published>2015-06-05T05:47:22Z</published>
-<updated>2017-03-08T10:10:00Z</updated>
-<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/BpW2Xt7s8AH" />
-<id>https://g0v.hackpad.com/BpW2Xt7s8AH</id>
 <content type="xhtml">
 <div xmlns="http://www.w3.org/1999/xhtml"></div>
 </content>
@@ -133,17 +144,6 @@
 <updated>2017-02-14T20:56:19Z</updated>
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/f3z18AeU2uH" />
 <id>https://g0v.hackpad.com/f3z18AeU2uH</id>
-<content type="xhtml">
-<div xmlns="http://www.w3.org/1999/xhtml"></div>
-</content>
-</entry>
-<entry>
-<title>開放都市-委員會會議記錄資料庫 前端策劃</title>
-<author><name>Richard Hsieh</name></author>
-<published>2017-02-09T12:57:28Z</published>
-<updated>2017-02-10T16:09:00Z</updated>
-<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/OukMJzcIYdy" />
-<id>https://g0v.hackpad.com/OukMJzcIYdy</id>
 <content type="xhtml">
 <div xmlns="http://www.w3.org/1999/xhtml"></div>
 </content>
