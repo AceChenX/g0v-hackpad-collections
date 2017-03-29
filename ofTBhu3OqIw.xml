@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title type="text">planning</title>
-<updated>2017-03-27T20:49:09Z</updated>
+<updated>2017-03-28T09:49:04Z</updated>
 <link rel="self" href="https://g0v.hackpad.com/ep/group/feed?groupId=ofTBhu3OqIw" />
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/ep/group/ofTBhu3OqIw" />
 <id>https://g0v.hackpad.com/ep/group/feed?groupId=ofTBhu3OqIw</id>
+<entry>
+<title>開放都市-委員會會議記錄資料庫 資料結構</title>
+<author><name>Richard Hsieh, che wei liu, YenCheng Chen</name></author>
+<published>2017-02-09T12:39:11Z</published>
+<updated>2017-03-28T09:49:04Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/CDUPc1zHil2" />
+<id>https://g0v.hackpad.com/CDUPc1zHil2</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
 <entry>
 <title>都市計畫書資料三星化｜方法討論</title>
 <author><name>che wei liu</name></author>
@@ -23,17 +34,6 @@
 <updated>2017-03-27T16:10:45Z</updated>
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/sh7utuV1NfX" />
 <id>https://g0v.hackpad.com/sh7utuV1NfX</id>
-<content type="xhtml">
-<div xmlns="http://www.w3.org/1999/xhtml"></div>
-</content>
-</entry>
-<entry>
-<title>開放都市-委員會會議記錄資料庫 資料結構</title>
-<author><name>Richard Hsieh, che wei liu, YenCheng Chen</name></author>
-<published>2017-02-09T12:39:11Z</published>
-<updated>2017-03-27T10:08:51Z</updated>
-<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/CDUPc1zHil2" />
-<id>https://g0v.hackpad.com/CDUPc1zHil2</id>
 <content type="xhtml">
 <div xmlns="http://www.w3.org/1999/xhtml"></div>
 </content>
