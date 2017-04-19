@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title type="text">g0v us</title>
-<updated>2016-02-23T13:44:38Z</updated>
+<updated>2017-04-18T04:56:39Z</updated>
 <link rel="self" href="https://g0v.hackpad.com/ep/group/feed?groupId=tOydEXa2HcM" />
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/ep/group/tOydEXa2HcM" />
 <id>https://g0v.hackpad.com/ep/group/feed?groupId=tOydEXa2HcM</id>
+<entry>
+<title>翻吧，台灣！</title>
+<author><name>chihao yo, Chiohh Caroline, che wei liu, Tzu-Yao Lin, ET Blue, Jiàn-gēng Chiōu, Yen-Fu Lin, Winnie Kuo, Ayo Yunyu Shih, Wei-Fang Chang, Love Minimermaid Amy, Yau-Hsien Huang</name></author>
+<published>2014-11-12T04:20:18Z</published>
+<updated>2017-04-18T04:56:39Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/M6aHMLt3fn8" />
+<id>https://g0v.hackpad.com/M6aHMLt3fn8</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
 <entry>
 <title>台灣正名器 http://nameistw.herokuapp.com/</title>
 <author><name>Tzu-Yao Lin, Jiàn-gēng Chiōu, kiya chang, Chia-Yin Tsai, Hsin Hsiao, ET Blue</name></author>
@@ -12,17 +23,6 @@
 <updated>2016-02-23T13:44:38Z</updated>
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/RRUz1822aga" />
 <id>https://g0v.hackpad.com/RRUz1822aga</id>
-<content type="xhtml">
-<div xmlns="http://www.w3.org/1999/xhtml"></div>
-</content>
-</entry>
-<entry>
-<title>翻吧，台灣！</title>
-<author><name>chihao yo, Chiohh Caroline, che wei liu, Tzu-Yao Lin, ET Blue, Jiàn-gēng Chiōu, Yen-Fu Lin, Winnie Kuo, Ayo Yunyu Shih, Wei-Fang Chang, Yau-Hsien Huang</name></author>
-<published>2014-11-12T04:20:18Z</published>
-<updated>2015-10-25T20:30:34Z</updated>
-<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/M6aHMLt3fn8" />
-<id>https://g0v.hackpad.com/M6aHMLt3fn8</id>
 <content type="xhtml">
 <div xmlns="http://www.w3.org/1999/xhtml"></div>
 </content>
