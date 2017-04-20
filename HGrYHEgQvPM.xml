@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title type="text">vtaiwan</title>
-<updated>2017-04-18T18:52:40Z</updated>
+<updated>2017-04-19T13:01:53Z</updated>
 <link rel="self" href="https://g0v.hackpad.com/ep/group/feed?groupId=HGrYHEgQvPM" />
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/ep/group/HGrYHEgQvPM" />
 <id>https://g0v.hackpad.com/ep/group/feed?groupId=HGrYHEgQvPM</id>
+<entry>
+<title>vTaiwan 小松 2017.04.19</title>
+<author><name>Audrey Tang, Shu Yang Lin</name></author>
+<published>2017-04-19T07:12:55Z</published>
+<updated>2017-04-19T13:01:53Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/Yfow4fCZ2JT" />
+<id>https://g0v.hackpad.com/Yfow4fCZ2JT</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
 <entry>
 <title>vTaiwan.tw 參考文獻</title>
 <author><name>che wei liu, Audrey Tang, 子魚</name></author>
