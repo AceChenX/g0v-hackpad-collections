@@ -1,17 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title type="text">g0v衛福部</title>
-<updated>2017-05-04T14:58:22Z</updated>
+<updated>2017-05-05T06:04:46Z</updated>
 <link rel="self" href="https://g0v.hackpad.com/ep/group/feed?groupId=AhCFAv6mDdd" />
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/ep/group/AhCFAv6mDdd" />
 <id>https://g0v.hackpad.com/ep/group/feed?groupId=AhCFAv6mDdd</id>
 <entry>
+<title>2017/04 迄今</title>
+<author><name>Lin,SF, Lin, SF</name></author>
+<published>2017-04-13T00:42:35Z</published>
+<updated>2017-05-05T06:04:46Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/eHN66Gobbat" />
+<id>https://g0v.hackpad.com/eHN66Gobbat</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
+<entry>
 <title>其它學術倫理事件檔案夾</title>
 <author><name>Lin,SF, CCCxyz</name></author>
 <published>2017-03-30T01:30:30Z</published>
-<updated>2017-05-04T14:58:22Z</updated>
+<updated>2017-05-05T06:03:05Z</updated>
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/P5rHWIc7UoW" />
 <id>https://g0v.hackpad.com/P5rHWIc7UoW</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
+<entry>
+<title>生醫學倫事件簿</title>
+<author><name>Lin,SF, Lin, Su-Fang, Andy Wang, 陳宗延, Sau-chin Chen</name></author>
+<published>2017-03-25T16:32:54Z</published>
+<updated>2017-05-05T05:59:22Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/psYiCfSI3Yy" />
+<id>https://g0v.hackpad.com/psYiCfSI3Yy</id>
 <content type="xhtml">
 <div xmlns="http://www.w3.org/1999/xhtml"></div>
 </content>
@@ -20,9 +42,20 @@
 <title>國際學術倫理相關資訊</title>
 <author><name>Lin,SF, Sau-chin Chen</name></author>
 <published>2017-03-28T12:36:54Z</published>
-<updated>2017-05-04T07:28:09Z</updated>
+<updated>2017-05-05T05:58:20Z</updated>
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/GGi8L2uSX0B" />
 <id>https://g0v.hackpad.com/GGi8L2uSX0B</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
+<entry>
+<title>各機構受質疑論文勘誤進度</title>
+<author><name>Lin,SF, Lin, Su-Fang</name></author>
+<published>2017-03-27T14:25:35Z</published>
+<updated>2017-05-05T00:38:41Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/LsT8UhPLmoC" />
+<id>https://g0v.hackpad.com/LsT8UhPLmoC</id>
 <content type="xhtml">
 <div xmlns="http://www.w3.org/1999/xhtml"></div>
 </content>
@@ -45,39 +78,6 @@
 <updated>2017-05-04T06:13:37Z</updated>
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/KBxKaRtKQvq" />
 <id>https://g0v.hackpad.com/KBxKaRtKQvq</id>
-<content type="xhtml">
-<div xmlns="http://www.w3.org/1999/xhtml"></div>
-</content>
-</entry>
-<entry>
-<title>各機構受質疑論文勘誤進度</title>
-<author><name>Lin,SF, Lin, Su-Fang</name></author>
-<published>2017-03-27T14:25:35Z</published>
-<updated>2017-05-04T06:12:43Z</updated>
-<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/LsT8UhPLmoC" />
-<id>https://g0v.hackpad.com/LsT8UhPLmoC</id>
-<content type="xhtml">
-<div xmlns="http://www.w3.org/1999/xhtml"></div>
-</content>
-</entry>
-<entry>
-<title>2017/04 迄今</title>
-<author><name>Lin,SF, Lin, SF</name></author>
-<published>2017-04-13T00:42:35Z</published>
-<updated>2017-05-04T06:11:07Z</updated>
-<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/eHN66Gobbat" />
-<id>https://g0v.hackpad.com/eHN66Gobbat</id>
-<content type="xhtml">
-<div xmlns="http://www.w3.org/1999/xhtml"></div>
-</content>
-</entry>
-<entry>
-<title>生醫學倫事件簿</title>
-<author><name>Lin,SF, Lin, Su-Fang, Andy Wang, 陳宗延, Sau-chin Chen</name></author>
-<published>2017-03-25T16:32:54Z</published>
-<updated>2017-04-22T11:56:54Z</updated>
-<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/psYiCfSI3Yy" />
-<id>https://g0v.hackpad.com/psYiCfSI3Yy</id>
 <content type="xhtml">
 <div xmlns="http://www.w3.org/1999/xhtml"></div>
 </content>
