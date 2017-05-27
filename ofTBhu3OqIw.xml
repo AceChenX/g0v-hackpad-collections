@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title type="text">planning</title>
-<updated>2017-05-23T10:44:57Z</updated>
+<updated>2017-05-26T16:29:18Z</updated>
 <link rel="self" href="https://g0v.hackpad.com/ep/group/feed?groupId=ofTBhu3OqIw" />
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/ep/group/ofTBhu3OqIw" />
 <id>https://g0v.hackpad.com/ep/group/feed?groupId=ofTBhu3OqIw</id>
+<entry>
+<title>地下都市計畫</title>
+<author><name>che wei liu</name></author>
+<published>2015-05-16T13:40:37Z</published>
+<updated>2017-05-26T16:29:18Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/gGhuhrPqRjw" />
+<id>https://g0v.hackpad.com/gGhuhrPqRjw</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
 <entry>
 <title>Crowd Planning System / Prototype</title>
 <author><name>Richard Hsieh, che wei liu, 林逸晟, YENJU LEE, 邱立安</name></author>
@@ -56,17 +67,6 @@
 <updated>2017-05-17T21:22:04Z</updated>
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/sh7utuV1NfX" />
 <id>https://g0v.hackpad.com/sh7utuV1NfX</id>
-<content type="xhtml">
-<div xmlns="http://www.w3.org/1999/xhtml"></div>
-</content>
-</entry>
-<entry>
-<title>地下都市計畫</title>
-<author><name>che wei liu</name></author>
-<published>2015-05-16T13:40:37Z</published>
-<updated>2017-05-04T06:14:25Z</updated>
-<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/gGhuhrPqRjw" />
-<id>https://g0v.hackpad.com/gGhuhrPqRjw</id>
 <content type="xhtml">
 <div xmlns="http://www.w3.org/1999/xhtml"></div>
 </content>
