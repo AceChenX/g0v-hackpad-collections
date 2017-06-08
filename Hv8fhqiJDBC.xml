@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title type="text">G0V教育部</title>
-<updated>2017-06-06T07:31:00Z</updated>
+<updated>2017-06-07T13:29:18Z</updated>
 <link rel="self" href="https://g0v.hackpad.com/ep/group/feed?groupId=Hv8fhqiJDBC" />
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/ep/group/Hv8fhqiJDBC" />
 <id>https://g0v.hackpad.com/ep/group/feed?groupId=Hv8fhqiJDBC</id>
+<entry>
+<title>生醫學倫事件簿</title>
+<author><name>Lin,SF, Lin, Su-Fang, Andy Wang, 陳宗延, Sau-chin Chen</name></author>
+<published>2017-03-25T16:32:54Z</published>
+<updated>2017-06-07T13:29:18Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/psYiCfSI3Yy" />
+<id>https://g0v.hackpad.com/psYiCfSI3Yy</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
 <entry>
 <title>台灣學術倫理教育資源中心</title>
 <author><name>Lin,SF</name></author>
@@ -12,17 +23,6 @@
 <updated>2017-06-06T07:31:00Z</updated>
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/moPI5myaJcB" />
 <id>https://g0v.hackpad.com/moPI5myaJcB</id>
-<content type="xhtml">
-<div xmlns="http://www.w3.org/1999/xhtml"></div>
-</content>
-</entry>
-<entry>
-<title>生醫學倫事件簿</title>
-<author><name>Lin,SF, Lin, Su-Fang, Andy Wang, 陳宗延, Sau-chin Chen</name></author>
-<published>2017-03-25T16:32:54Z</published>
-<updated>2017-06-06T07:28:47Z</updated>
-<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/psYiCfSI3Yy" />
-<id>https://g0v.hackpad.com/psYiCfSI3Yy</id>
 <content type="xhtml">
 <div xmlns="http://www.w3.org/1999/xhtml"></div>
 </content>
