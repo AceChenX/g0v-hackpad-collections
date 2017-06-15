@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title type="text">字幕</title>
-<updated>2017-05-31T14:33:22Z</updated>
+<updated>2017-06-14T14:54:52Z</updated>
 <link rel="self" href="https://g0v.hackpad.com/ep/group/feed?groupId=pTXkf236CM8" />
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/ep/group/pTXkf236CM8" />
 <id>https://g0v.hackpad.com/ep/group/feed?groupId=pTXkf236CM8</id>
+<entry>
+<title>逐字稿打字坊</title>
+<author><name>Nicemaker, venev, Fumi Miyabe, Michael_Li, Wen-Chi Cheng</name></author>
+<published>2014-05-09T03:51:47Z</published>
+<updated>2017-06-14T14:54:52Z</updated>
+<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/ntF2esfIsSj" />
+<id>https://g0v.hackpad.com/ntF2esfIsSj</id>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml"></div>
+</content>
+</entry>
 <entry>
 <title>多人協作字幕注意事項</title>
 <author><name>Jimmy Kung, YiJie, Wu</name></author>
@@ -12,17 +23,6 @@
 <updated>2017-05-31T14:33:22Z</updated>
 <link rel="alternate" type="text/html" href="https://g0v.hackpad.com/9JD0mhOdaT9" />
 <id>https://g0v.hackpad.com/9JD0mhOdaT9</id>
-<content type="xhtml">
-<div xmlns="http://www.w3.org/1999/xhtml"></div>
-</content>
-</entry>
-<entry>
-<title>逐字稿打字坊</title>
-<author><name>Nicemaker, venev, Fumi Miyabe, Michael_Li, Wen-Chi Cheng</name></author>
-<published>2014-05-09T03:51:47Z</published>
-<updated>2017-02-04T03:56:55Z</updated>
-<link rel="alternate" type="text/html" href="https://g0v.hackpad.com/ntF2esfIsSj" />
-<id>https://g0v.hackpad.com/ntF2esfIsSj</id>
 <content type="xhtml">
 <div xmlns="http://www.w3.org/1999/xhtml"></div>
 </content>
